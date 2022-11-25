@@ -1,0 +1,12 @@
+.albums{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.albums li{
+    width: 30%;
+    margin-top: 5px;
+    padding: 20px;
+    border: 2px solid #000;
+    text-align: start;
+}

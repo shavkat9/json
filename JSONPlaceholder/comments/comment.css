@@ -1,0 +1,10 @@
+.comments{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.comments li{
+    border: 2px solid rgb(209, 87, 42);
+    margin-top: 5px;
+    padding: 15px;
+}

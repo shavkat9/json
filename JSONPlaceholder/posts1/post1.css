@@ -1,0 +1,11 @@
+.posts{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.posts li{
+    width: 40%;
+    margin-top: 5px;
+    padding-left: 25px;
+    border: 2px solid rgb(212, 123, 212);
+}

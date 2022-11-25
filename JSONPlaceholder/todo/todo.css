@@ -1,0 +1,13 @@
+.todos{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.todos:nth-child(n + 2){
+    margin-top: 500px;
+}
+.todo__Item{
+    border: 1px solid #000;
+    padding: 20px;
+    margin-top: 10px;
+}
